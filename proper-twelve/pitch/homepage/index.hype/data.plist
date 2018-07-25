@@ -74,7 +74,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2018-07-25T17:12:59Z</date>
+	<date>2018-07-25T17:13:56Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -144,7 +144,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 0}, {1273, 257}}</string>
+									<string>{{136, 0}, {1273, 256}}</string>
 									<key>identifier</key>
 									<string>container 4</string>
 									<key>isCustomizableViewContainer</key>
@@ -157,7 +157,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {1273, 257}}</string>
+											<string>{{136, 0}, {1273, 256}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -167,7 +167,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 258}, {1273, 688}}</string>
+									<string>{{136, 257}, {1273, 689}}</string>
 									<key>identifier</key>
 									<string>container 3</string>
 									<key>isCustomizableViewContainer</key>
@@ -180,7 +180,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 258}, {1273, 688}}</string>
+											<string>{{136, 257}, {1273, 689}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -435,7 +435,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1697, 917}</string>
+					<string>{1697, 918}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
